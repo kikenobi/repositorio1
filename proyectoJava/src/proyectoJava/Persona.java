@@ -1,7 +1,8 @@
 package proyectoJava;
 
 public class Persona {
- int edad;
- String nombre;
- int peso;
+ private int edad;
+ private String nombre;
+ private int peso;
+ //2
 }
